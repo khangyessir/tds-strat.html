@@ -6,3 +6,25 @@ h1:first-of-type {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+select:first-of-type {
+  text-align: left;
+  margin: 0 auto;
+  position: absolute;
+  top: 20%;
+  left: 6%;
+}
+#image_jerry {
+  position: relative;
+  top: 10%;
+  left: 68%;
+}
+/* input {
+  width: 200px;
+  height: 30px;
+  border: 1px solid black;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
